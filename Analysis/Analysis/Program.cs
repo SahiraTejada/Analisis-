@@ -25,8 +25,7 @@ namespace Analysis
 
             if (UsesParametersOverloading(root))
             {
-                throw new ArgumentOutOfRangeException(
-             "Parameter index is out of range.");
+                Console.WriteLine(Exercise.Greeting());
             }
 
 
