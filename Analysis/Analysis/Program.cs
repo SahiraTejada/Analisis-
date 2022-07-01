@@ -23,7 +23,8 @@ namespace Analysis
 
             if (UsesParametersOverloading(root))
             {
-                throw new NotImplementedException();
+                throw new ArgumentOutOfRangeException(
+             "Parameter index is out of range.");
             }
 
 
