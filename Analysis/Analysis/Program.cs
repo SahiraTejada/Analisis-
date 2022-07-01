@@ -23,7 +23,7 @@ namespace Analysis
 
             if (UsesParametersOverloading(root))
             {
-                throw new Exception("PARAMETROS");
+                throw new NotImplementedException();
             }
 
 
