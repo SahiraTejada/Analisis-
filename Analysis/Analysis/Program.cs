@@ -44,7 +44,7 @@ namespace Analysis
         {
             var gretting =  root.DescendantNodes()
                 .OfType<MethodDeclarationSyntax>()
-                .Single(method => method.Identifier.Text == "Greeting1");
+                .Single(method => method.Identifier.Text == "Greeting");
 
            return gretting.ParameterList.Parameters[0].Default.Value is LiteralExpressionSyntax literal &&
                 literal.IsKind(SyntaxKind.NullLiteralExpression);
