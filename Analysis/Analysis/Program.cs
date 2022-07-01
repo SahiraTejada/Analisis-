@@ -7,7 +7,7 @@ using Microsoft.CodeAnalysis.CSharp.Syntax;
 
 namespace Analysis
 {
-    //ncioernviernviour
+    
     class Program
     {
         static void Main()
