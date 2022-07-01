@@ -18,7 +18,8 @@ namespace Analysis
 
             if (UsesMethodOverloading(root))
             {
-              Console.WriteLine("Hello World!");
+                throw new ArgumentOutOfRangeException(
+               "Parameter index is out of range.");
             }
 
             if (UsesParametersOverloading(root))
