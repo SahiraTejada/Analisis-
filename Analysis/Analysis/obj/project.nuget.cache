@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uQamd6soW3pDAp51FniWRAHtBWzziBOfXuQZCxv+pbR/hDnV0oMwpqOIkKYUXhp271G73uOxXO2IuF+XS1ifKQ==",
+  "dgSpecHash": "EgCycrTyUHVJaoZHc48es6U1ay7gGHdkBmWvZWGndnRYnWyh3c/pp93+JIeRAnBanpxDwoe9UIs6E6nFc9IFUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Analysis\\Analysis\\Analysis.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Source\\Repos\\Analisis-\\Analysis\\Analysis\\Analysis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.codeanalysis.common\\4.2.0\\microsoft.codeanalysis.common.4.2.0.nupkg.sha512",

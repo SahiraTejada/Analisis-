@@ -7,7 +7,7 @@ namespace Analysis
     public class Exercise
     {
 
-        /*
+        
         public static string Greeting()
         {
             return "Hello you";
@@ -16,9 +16,9 @@ namespace Analysis
         public static string Greeting(string name)
         {
             return "Hello" + name + "!";
-        }*/
+        }
 
-        public static string Greeting(string name = null)
+        public static string Greeting1(string name = null)
         {
             if (name == null)
             {
